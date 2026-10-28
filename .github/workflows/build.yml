@@ -33,7 +33,7 @@ jobs:
         run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
 
       - name: Build APK
-        run: gradle --stacktrace -p app assembleDebug
+        run: gradle --stacktrace assembleDebug
         
         
 
