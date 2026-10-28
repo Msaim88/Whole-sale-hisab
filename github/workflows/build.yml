@@ -40,3 +40,4 @@ jobs:
         with:
           name: WholesaleHisab-APK
           path: app/build/outputs/apk/debug/app-debug.apk
+-
